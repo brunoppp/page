@@ -3,7 +3,7 @@ title: "Teaching experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /
-date: 2014-01-01
+date: ""-01-01
 location: "City, Country"
 ---
 
