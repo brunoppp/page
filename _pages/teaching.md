@@ -5,43 +5,33 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching
-
-I am passionate about teaching and mentoring students in environmental and energy economics, applied econometrics, and quantitative policy analysis. Below is a selection of courses I have taught or contributed to in recent years.
-
----
-
 ## Teaching Philosophy
 
-My teaching approach emphasizes critical thinking, practical application of concepts, and fostering a collaborative learning environment. I strive to equip students with tools to analyze real-world environmental and economic challenges.
+My teaching approach emphasizes critical thinking, practical application of concepts, and fostering a collaborative learning environment. I strive to equip students with tools to analyze real-world economic challenges.
+
+Below is a selection of courses I have contributed to in recent years.
 
 ---
 
-## Current Courses
+# Teaching Assistant
 
-### Environmental and Energy Economics  
-*Graduate Course*  
-University of Example — Spring 2025  
-[Download Syllabus (PDF)](https://example.com/syllabus/environmental-economics.pdf)
+## University of California, Davis
+### Graduate:
+Econometric Methods (ECN 240B) - Spring 2022
+### Undergraduate:
+Intermediate Microeconomics (ARE 100A) - Winter 2021, Fall 2024, Winter 2025, Spring 2025
 
-### Applied Econometrics  
-*Guest Lecturer*  
-University of São Paulo — Fall 2024  
-[Download Syllabus (PDF)](https://example.com/syllabus/applied-econometrics.pdf)
+Intermediate Microeconomics (ARE 100B) - Winter 2024
 
----
+Econometric Theory and Applications (ARE 106) - Fall 2022, Fall 2023, Spring 2024
 
-## Past Courses
+Financial Management of the Firm (ARE 172) - Fall 2021, Winter 2022, Winter 2023
 
-### Microeconomics I  
-*Teaching Assistant*  
-University of XYZ — Fall 2023
+Operations Research and Management Science (ARE 155) - Spring 2023
 
-### Economics of Climate Change  
-*Instructor*  
-University of ABC — Spring 2022  
-[Download Syllabus (PDF)](https://example.com/syllabus/econ-climate-change.pdf)
+Economic Development (ARE 115A) - Summer 2024
 
-### Environmental Policy Analysis  
-*Guest Lecturer*  
-Federal University of Example — Fall 2021
+## University of São Paulo
+### Graduate:
+Microeconomics I - Feb. 2019 - Apr. 2019
+
