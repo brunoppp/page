@@ -15,8 +15,9 @@ Below is a selection of courses I have contributed to in recent years.
 
 ---
 
-## Teaching Assistant
-
+<div style="text-align: center;">
+  <h2>Teaching Assistant</h2>
+</div>
 ### University of California, Davis
 #### Graduate:
 Econometric Methods (ECN 240B) - Spring 2022
