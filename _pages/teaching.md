@@ -5,7 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Philosophy
+<div style="text-align: center;">
+  <h2>Teaching Philosophy</h2>
+</div>
 
 My teaching approach emphasizes critical thinking, practical application of concepts, and fostering a collaborative learning environment. I strive to equip students with tools to analyze real-world economic challenges.
 
