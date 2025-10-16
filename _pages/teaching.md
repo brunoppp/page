@@ -11,6 +11,9 @@ author_profile: true
 
 My teaching approach emphasizes critical thinking, practical application of concepts, and fostering a collaborative learning environment. I strive to equip students with tools to analyze real-world economic challenges.
 
+[📄 Evaluations]({{'/files/evals.pdf' | relative_url}})
+
+
 Below is a selection of courses I have contributed to in recent years.
 
 ---
