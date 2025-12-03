@@ -31,5 +31,5 @@ In the 2000s, soybean cultivation rapidly expanded across the Brazilian Amazon, 
 
 Conservation and restoration of forested land are widely promoted as strategies to mitigate climate change. In particular, industrial tree plantations (ITPs) such as Eucalyptus and Pinus radiata have expanded rapidly due to their commercial viability and carbon sequestration potential. However, these fast-growing exotic species are highly water-intensive and may compromise freshwater availability. This paper examines the hydrological consequences of afforestation with ITPs in Chile, where government policies in the late 20th century incentivized large-scale land conversion. Using variation in upstream land use within water basins, we estimate the impact of ITP expansion on downstream surface water availability.
 
-\**Planting Fire: Does the replacement of native vegetation by forest plantations increase wildfire risk?** with Ignacio Oliva
+
 
