@@ -7,14 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. Candidate in Agricultural and Resource Economics at the University of California, Davis.
+Welcome! I am a Postdoctoral Research Associate at Imperial College London and an environmental economist working at the intersection of climate change, environmental policy, and the energy transition.
 
-**I am on the job market this fall (AY 2025-2026).**
+My research examines how climate shocks, institutions, and sustainability policies shape economic behavior and environmental outcomes. My work spans land use, deforestation, electricity systems, industrial flexibility, and global supply chains, and combines applied econometrics, causal inference, geospatial analysis, and economic modeling.
 
-I am mostly interested in Environmental Economics, land use, and climate change.  My job market paper examines how ranchers on public and private lands in the Brazilian Amazon adapt their land-use practices in response to droughts. The study highlights the critical role of property rights in shaping the effectiveness of policies aimed at mitigating climate-related shocks. Expanding my research, I am examining the impact of the Amazon Soy Moratorium on cattle-ranchers' land-use decisions and the effects of an afforestation policy in Chile on water availability. 
+I received my Ph.D. in Agricultural and Resource Economics from the University of California, Davis. My doctoral research focused on land-use change and environmental policy in Latin America, including the effects of droughts on deforestation in the Brazilian Amazon, supply-chain conservation policies, and the environmental impacts of industrial tree plantations.
 
+At Imperial, I am currently studying how energy-intensive industries and supply chains can adapt to increasingly variable renewable electricity systems, with a particular interest in the economic incentives and constraints shaping industrial flexibility.
 
-Before joining UC Davis, I earned my M.A. in economics from the University of São Paulo and a B.A. in economics from the Federal University of Minas Gerais.
-
-Please feel free to contact me at **bpimenta@ucdavis.edu.**
+Please feel free to contact me at **b.pimenta@imperial.ac.uk**
 
