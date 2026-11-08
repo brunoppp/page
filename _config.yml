@@ -25,15 +25,15 @@ author:
   avatar           : "IMG_2446_perfil.jpg"
   name             : "Bruno Pimenta"
   pronouns         : "he/him"  
-  location         : "Davis, California"
-  employer         : "University of California, Davis"
+  location         : "London, UK"
+  employer         : "Imperial College London"
   uri              : # URL
-#  email            : "bpimenta@ucdavis.edu" 
+  email            : "b.pimenta@imperial.ac.uk" 
 
   # Academic websites
   #academia         : # URL
   #arxiv            : # URL - Update with the correct link to your profile
-  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=lAS9OugAAAAJ"
   #impactstory      : # URL
   #orcid            : "http://orcid.org/yourorcidurl"
   #semantic         : # URL
@@ -45,7 +45,7 @@ author:
  # bitbucket        : # Username - Update with your username on the site
  # codepen          : # Username
  # dribbble         : # Username
-  github           : "academicpages"
+ # github           : "academicpages"
  # kaggle           : # Username  
  # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
